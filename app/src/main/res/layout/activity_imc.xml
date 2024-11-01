@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     android:orientation="vertical"
-    android:background="@color/letraenc"
+    android:background="@color/mustard"
     android:gravity="center_horizontal"
     tools:context=".ActivityImc">
 
