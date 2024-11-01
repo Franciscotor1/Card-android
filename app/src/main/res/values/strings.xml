@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">CardView</string>
     <string name="miempresa">Servicios Informaticos</string>
-    <string name="alumno">Angel Maclovio Andrade Luna</string>
-    <string name="matricula">21050098</string>
+    <string name="alumno">Francisco Javier Torres Acosta</string>
+    <string name="matricula">22050586</string>
     <string name="materia">Desarrollo Movil</string>
     <string name="desImaCot">Logo Toyota</string>
     <!-- Strings used for fragments for navigation -->
