@@ -97,7 +97,7 @@
                         android:textSize="18dp"
                         android:layout_marginBottom="10dp"
                         android:text="Hola"
-                        android:textColor="@color/letraenc"/>
+                        android:textColor="@color/encabezado"/>
 
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
